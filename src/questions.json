@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "What is 2 + 3?",
+        "options": ["6", "5", "10", "9"],
+        "correctOption": "5"
+    },
+    {
+        "id": 2,
+        "question": "What is the National Animal of India?",
+        "options": ["Lion", "Dragon", "Tiger", "Elephant"],
+        "correctOption": "Tiger"
+    },
+    {
+        "id": 3,
+        "question": "Where is Taj Mahal located?",
+        "options": ["Goa", "Rajasthan", "Tamil Nadu", "Agra"],
+        "correctOption": "Agra"
+    }
+]
